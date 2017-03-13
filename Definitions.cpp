@@ -161,10 +161,10 @@ void Intro()
 	cout<<"life; thats all we ever wanted...";
 	Select();
 	ClearScreen();
-	cout <<" One dark and Hell-born day, a gloomy and forgotten cave was shat out black\nshit demons. Then, the monster that haunted my darkest dreams walked the Earth\nand shit on my land...";
+	cout <<" One dark and Hell-born day, a gloomy and forgotten cave was overrun with\n demons. Then, the monster that haunted my darkest dreams walked the Earth\nand festered my land...";
 	Select();
 	ClearScreen();
-	cout <<" They shat on my family, my farm, my future...everything. In doing so, they \nhave unshat themselves. I won't rest until I see every last one of their corpses free from my land...";
+	cout <<" They destroyed my farm, my family, my future...everything. In doing so, they \nhave doomed themselves. I won't rest until I see every last one of their corpses free from my land...";
 	Select();
 	ClearScreen();
 	cout<<"CAVE MANIA!";
