@@ -1,0 +1,13 @@
+Small Mana Potion
+This will heal 50
+Potion
+2
+2
+5
+1
+3
+0
+1
+0
+50
+63
